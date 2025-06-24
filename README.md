@@ -15,9 +15,7 @@ gedit node.py
 
 To build it run the following commonds:
 ```
-cd ~/crazyflie_ws/src
-git clone https://github.com/GianlucaNordio/optitrack_pose.git
-cd ..
+cd ~/crazyflie_ws/
 colcon build
 ```
 
