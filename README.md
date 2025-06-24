@@ -17,6 +17,7 @@ To build it run the following commonds:
 ```
 cd ~/crazyflie_ws/
 colcon build
+source install/setup.bash
 ```
 
 
