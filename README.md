@@ -19,6 +19,9 @@ cd ~/crazyflie_ws/
 colcon build
 source install/setup.bash
 ```
-
+To run it use:
+```
+ros2 run optitrack_pose node
+```
 
 Feel free to report any issue to group 6.
